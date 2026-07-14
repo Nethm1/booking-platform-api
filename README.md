@@ -5,8 +5,8 @@ lets customers create bookings. Built with **NestJS**, **TypeScript**,
 **PostgreSQL** and **TypeORM**.
 
 > Built for the EN2H "Software Engineer Intern (NestJS)" technical assignment.
-> Services are seeded with a beauty-salon catalogue inspired by
-> [romandbeauty.com](https://romandbeauty.com/).
+> Services are seeded with a beauty-salon catalogue 
+
 
 ---
 
